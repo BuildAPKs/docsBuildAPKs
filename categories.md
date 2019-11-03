@@ -20,6 +20,7 @@ libraries_and_demo
 	samples
 lifestyle
 maps_and_navigation
+	compasses
 medical
 music_and_audio
 news_and_magazines
@@ -32,6 +33,7 @@ shopping
 social
 sports
 tools
+	clocks
 travel_and_local
 video_players
 weather

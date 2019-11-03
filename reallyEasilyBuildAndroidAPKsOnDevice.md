@@ -25,11 +25,11 @@ It is ready to be installed.
 Install moon.apk from /sdcard/Download/ using your file manager from Android.
 ```
 
-After you're done installing your first APK from the downloads directory (File Manager > Download (**Tap moon.apk with your finger to install**)). You can build hundreds of other exciting, amazing and beautiful APKs by running [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts/build) from the [sources directory.](https://github.com/sdrausty/buildAPKs/tree/master/sources)
+After you're done installing your first APK from the downloads directory (File Manager > Download (**Tap moon.apk with your finger to install**)). You can build hundreds of other exciting, amazing and beautiful APKs by running [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts) from the this directory.
 
-These [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts/build) will download the necessary components from [Github,](https://github.com) build them on device. Then, these [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts/build) will deposit your built APKs into `/sdcard/Download/builtAPKs` on your device (smartphone or tablet). Like magic! Presto! 
+These [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts/bash/build/) ) will download the necessary components from [Github,](https://github.com) and build them on device.  Then, these [shell scripts](https://github.com/sdrausty/buildAPKs/tree/master/scripts/bash/build/) will deposit your built APKs into `/sdcard/Download/builtAPKs` on your device (smartphone or tablet).  Like magic!  Presto! 
 
-Prefix these bash scripts by typing dot slash `./` in the [sources directory](https://github.com/sdrausty/buildAPKs/tree/master/sources)  on your smartphone or tablet in Termux, i.e. type `./b` at the prompt ($), press TAB TAB (x2). 
+Prefix these bash scripts by typing dot slash `./` in the [working directory](https://github.com/sdrausty/buildAPKs/tree/master) on your smartphone or tablet in Termux, i.e. type `./b` at the prompt ($), press TAB TAB (x2). 
 
 The prompt should magically add `uild`; Then add a capitol `A` and small `l`. Press TAB TAB (x2) again. This will build the following command on the command line `./buildAll.sh` for you. Press enter (return) in `~/buildAPKs/sources/` and watch as hundreds of APKs build on device...
 
