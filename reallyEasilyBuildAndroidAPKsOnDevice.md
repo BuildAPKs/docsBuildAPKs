@@ -50,7 +50,7 @@ Enjoy building these select APKs for Termux [projects,](https://github.com/sdrau
 
 ![Screenshot Animation](./bitpics/ps1.gif)
 
-If you're confused by this page try [this link,](https://termux.com/help.html) and [this link,](http://tldp.org/) and you might want to try [this one.](https://www.debian.org/doc/)
+If you're confused by this page please try [this link,](https://termux.com/help.html) and [this link,](http://tldp.org/) and you might want to try [this one.](https://www.debian.org/doc/)
 
 Post your what you have found at [the wiki,](https://github.com/sdrausty/buildAPKs/wiki) [donate](https://sdrausty.github.io/pages/donate) and help [this website grow!](https://sdrausty.github.io/)
 
