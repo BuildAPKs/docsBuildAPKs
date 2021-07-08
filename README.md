@@ -14,7 +14,7 @@ In order to build these apps, the following programs need to be used. After fini
 
 - `ecj` Eclipse Compiler for Java
 
-If you want to install `aapt`, you will use `packages install aapt`. Before installing any packages, you should use `apt update && apt upgrade`. You can install all of them at once by executing:
+If you want to install `aapt` you will use `packages install aapt`. Before installing any packages, you should use `apt update && apt upgrade`. You can install all of them at once by executing:
 
 ```
 packages install aapt apksigner dx ecj
