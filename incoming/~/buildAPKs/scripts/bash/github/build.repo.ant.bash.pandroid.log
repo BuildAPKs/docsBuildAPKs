@@ -1,0 +1,558 @@
+~/.../zeljkoc/Pandroid $ ~/buildAPKs/scripts/bash/github/build.repo.ant.bash https://github.com/zeljkoc/Pandroid
+Processing https://github.com/zeljkoc/Pandroid in directory ~/buildAPKs/sources/github.com/zeljkoc/Pandroid:
+
+BuildAPKs build.repo.ant.bash prep.bash: Processing elements in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid: Please wait...
+BuildAPKs build.repo.ant.bash prep.bash /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid: DONE
+Found 0 APK files in ~/buildAPKs/sources/github.com/zeljkoc/Pandroid/.
+
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android/build.xml:7: Source resource does not exist: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android/local.properties
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/FreePascal/lazarus/examples/androidlcl/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DateTime/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo2DDraw/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Demo3DCube2/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoChart/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoMenu/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoOpenGL/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPrint/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoSQLite/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoScrollButton/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoToolBar2/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoWebView/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoXML/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Fragment01/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Glas/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/GridView/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ListViewObject/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/MultiLanguage/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PandroidRadiPlayer/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PascalScript/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/PasswordDialog/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ProgressBar/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ReadGPS/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/ScrollView/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SecondActivity/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/SendEmail/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TempFirebird/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/TestBarCode/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/Vibrator/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/build.xml:34: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/build.xml:34: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/bin
+
+compile:
+    [javac] Compiling 2 source files to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/build.xml:38: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/bin
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/src/TIniFile.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/build.xml:34: The archive lib.jar doesn't exist
+
+Total time: 2 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/bin
+
+compile:
+    [javac] Compiling 72 source files to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/bin
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/PendingTroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/PermanentTroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/TroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/fuel/FuelTrimCommand.java:68: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public final float getValue() {
+    [javac]                        ^
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/ObdCommand.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/ObdCommand.java uses unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+    [javac] 4 warnings
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/build.xml:38: The archive lib.jar doesn't exist
+
+Total time: 3 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/project/Popis/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/sdk/tools/ant begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/sdk/tools/ant
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/sdk/tools/ant/build.xml
+  [taskdef] Could not load definitions from resource anttasks.properties. It could not be found.
+  [taskdef] Could not load definitions from resource emma_ant.properties. It could not be found.
+
+-set-mode-check:
+
+-set-debug-files:
+
+-check-env:
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/sdk/tools/ant/build.xml:396: Problem: failed to create task or type checkenv
+Cause: The name is undefined.
+Action: Check the spelling.
+Action: Check that any custom tasks/types have been declared.
+Action: Check that any <presetdef>/<macrodef> declarations have taken place.
+
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/sdk/tools/ant done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/Minimal/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android/build.xml
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android/build.xml:12: Cannot find /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android/${sdk.dir}/tools/ant/build.xml imported from /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android/build.xml
+
+Total time: 0 seconds
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/android done
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc begun
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+ant build in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc done
+Found 0 APK files in ~/buildAPKs/sources/github.com/zeljkoc/Pandroid/.
+
+
+Please share information about new projects found at https://github.com/BuildAPKs/db.BuildAPKs/issues and https://github.com/BuildAPKs/db.BuildAPKs/pulls in order to help this project out.
+
+~/.../zeljkoc/Pandroid $
