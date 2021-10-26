@@ -1,0 +1,424 @@
+~/.../zeljkoc/Pandroid $ ~/buildAPKs/scripts/bash/github/build.repo.compile.sh.bash https://github.com/zeljkoc/Pandroid
+Processing https://github.com/zeljkoc/Pandroid in directory ~/buildAPKs/sources/github.com/zeljkoc/Pandroid:
+
+BuildAPKs build.repo.compile.sh.bash prep.bash: Processing elements in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid: Please wait...
+BuildAPKs build.repo.compile.sh.bash prep.bash /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid: DONE
+Found 0 APK files in ~/buildAPKs/sources/github.com/zeljkoc/Pandroid/.
+
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc begun
+rm: cannot remove 'lib.jar': No such file or directory
+  adding: lib/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/libpandroidmodule.so      (in=454023) (out=165364) (deflated 64%)
+  adding: lib/armeabi/ppas.sh   (in=1597) (out=419) (deflated 74%)
+total bytes=455620, compressed=165783 -> 64% savings
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/dist
+      [jar] Building jar: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc/dist/PandroidModule.jar
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+====== rm_jar file
+====== cp_jar file
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/example/DemoPModule/pascalsrc done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/AndroidSupportV13 begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/AndroidSupportV13 done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/AndroidSupportV4 begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/AndroidSupportV4 done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass begun
+rm: cannot remove 'lib.jar': No such file or directory
+added manifest
+adding: lib/(in = 0) (out= 0)(stored 0%)
+adding: lib/armeabi-v7a/(in = 0) (out= 0)(stored 0%)
+adding: lib/armeabi-v7a/libbass.so(in = 202132) (out= 135582)(deflated 32%)
+adding: lib/armeabi-v7a/libbass_ssl.so(in = 1358448) (out= 622287)(deflated 54%)
+adding: lib/armeabi/(in = 0) (out= 0)(stored 0%)
+adding: lib/armeabi/libbass.so(in = 227820) (out= 153134)(deflated 32%)
+adding: lib/armeabi/libbass_ssl.so(in = 1387112) (out= 642289)(deflated 53%)
+adding: lib/x86/(in = 0) (out= 0)(stored 0%)
+adding: lib/x86/libbass.so(in = 288040) (out= 149960)(deflated 47%)
+adding: lib/x86/libbass_ssl.so(in = 1850848) (out= 743859)(deflated 59%)
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/dist
+      [jar] Building jar: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass/dist/ZCBass.jar
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Bass done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Chart begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Chart done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID begun
+rm: cannot remove 'lib.jar': No such file or directory
+  adding: lib/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/libtiny-tools.so  (in=64060) (out=36319) (deflated 43%)
+total bytes=64060, compressed=36319 -> 43% savings
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/dist
+      [jar] Building jar: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID/dist/CilicoRFID.jar
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoRFID done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoUHF begun
+  adding: lib/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/libcilicoUHFlib.so        (in=63820) (out=36757) (deflated 42%)
+  adding: com/  (in=0) (out=0) (stored 0%)
+  adding: com/cilico/   (in=0) (out=0) (stored 0%)
+  adding: com/cilico/UHFlib/    (in=0) (out=0) (stored 0%)
+  adding: com/cilico/UHFlib/manager$BaudRateID.class(in=1350) (out=704) (deflated 48%)
+  adding: com/cilico/UHFlib/manager$C1G2_BLF_et_.class       (in=640) (out=359) (deflated 44%)
+  adding: com/cilico/UHFlib/manager$C1G2_Inventory_Mode_et_.class    (in=551) (out=334) (deflated 39%)
+  adding: com/cilico/UHFlib/manager$C1G2_Mem_Type_et_.class  (in=631) (out=366) (deflated 42%)
+  adding: com/cilico/UHFlib/manager$C1G2_Mod_Type_et_.class  (in=612) (out=356) (deflated 42%)
+  adding: com/cilico/UHFlib/manager$Channel_Type_e_.class    (in=490) (out=314) (deflated 36%)
+  adding: com/cilico/UHFlib/manager$HF693_Quiet_Mode_et_.class       (in=536) (out=327) (deflated 39%)
+  adding: com/cilico/UHFlib/manager$Tag_Type_et_.class       (in=748) (out=426) (deflated 43%)
+  adding: com/cilico/UHFlib/manager$_ISO15693.class (in=491) (out=307) (deflated 37%)
+  adding: com/cilico/UHFlib/manager.class       (in=4869) (out=2469) (deflated 49%)
+  adding: com/wpx/      (in=0) (out=0) (stored 0%)
+  adding: com/wpx/bean/ (in=0) (out=0) (stored 0%)
+  adding: com/wpx/bean/ResultInfo.class (in=1512) (out=664) (deflated 56%)
+  adding: com/wpx/dao/  (in=0) (out=0) (stored 0%)
+  adding: com/wpx/dao/IUHFDao.class     (in=516) (out=329) (deflated 36%)
+  adding: com/wpx/dao/impl/     (in=0) (out=0) (stored 0%)
+  adding: com/wpx/dao/impl/UHFDaoImpl.class     (in=3729) (out=1531) (deflated 59%)
+  adding: com/wpx/service/      (in=0) (out=0) (stored 0%)
+  adding: com/wpx/service/IUHFService.class     (in=1339) (out=593) (deflated 56%)
+  adding: com/wpx/service/impl/ (in=0) (out=0) (stored 0%)
+  adding: com/wpx/service/impl/UHFServiceImpl.class (in=21572) (out=10208) (deflated 53%)
+  adding: com/wpx/util/ (in=0) (out=0) (stored 0%)
+  adding: com/wpx/util/GlobalUtil.class (in=2965) (out=1734) (deflated 42%)
+total bytes=106371, compressed=57778 -> 46% savings
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/CilicoUHF done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Cordova begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Cordova done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet begun
+rm: cannot remove 'lib.jar': No such file or directory
+lib : no such file or directory
+added manifest
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet/build.xml:34: The archive lib.jar doesn't exist
+
+Total time: 1 second
+rm: cannot remove 'lib.jar': No such file or directory
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/DataSet done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite begun
+rm: cannot remove 'lib.jar': No such file or directory
+  adding: lib/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/  (in=0) (out=0) (stored 0%)
+  adding: lib/armeabi/libfbsqliterepl.so        (in=1086311) (out=380153) (deflated 65%)
+total bytes=1086311, compressed=380153 -> 65% savings
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/dist
+      [jar] Building jar: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite/dist/fbsqlite.jar
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/FBSQlite done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird begun
+rm: cannot remove 'lib.jar': No such file or directory
+added manifest
+adding: lib/(in = 0) (out= 0)(stored 0%)
+adding: lib/armeabi/(in = 0) (out= 0)(stored 0%)
+adding: lib/armeabi/libzcfbclient.so(in = 698323) (out= 246576)(deflated 64%)
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/bin
+
+compile:
+    [javac] Compiling 2 source files to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/dist
+      [jar] Building jar: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird/dist/zcfbclient.jar
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Firebird done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile begun
+rm: cannot remove 'lib.jar': No such file or directory
+lib : no such file or directory
+added manifest
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/bin
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/bin
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/src/TIniFile.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile/build.xml:34: The archive lib.jar doesn't exist
+
+Total time: 2 seconds
+rm: cannot remove 'lib.jar': No such file or directory
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/IniFile done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/ScannerAPI2D begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/ScannerAPI2D done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Seulic begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/Seulic done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/gson begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/gson done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/http begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/http done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm begun
+rm: cannot remove 'lib.jar': No such file or directory
+lib : no such file or directory
+added manifest
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/bin
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/bin
+
+compile:
+    [javac] Compiling 72 source files to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/bin
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/PendingTroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/PermanentTroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/control/TroubleCodesCommand.java:105: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public String formatResult() {
+    [javac]                   ^
+    [javac] /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/fuel/FuelTrimCommand.java:68: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+    [javac]     public final float getValue() {
+    [javac]                        ^
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/ObdCommand.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/src/github/pires/obd/commands/ObdCommand.java uses unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+    [javac] 4 warnings
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm/build.xml:38: The archive lib.jar doesn't exist
+
+Total time: 3 seconds
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/obd-api-fpcjvm done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/usb begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/usb done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/websocket begun
+============================ pascal
+Error: Unable to access jarfile /usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/javapp.jar
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/library/websocket done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc begun
+rm: cannot remove 'lib.jar': No such file or directory
+        zip warning: name not matched: lib
+
+zip error: Nothing to do! (try: zip -rv lib.jar . -i lib)
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+rm: cannot remove 'lib.jar': No such file or directory
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+rm: cannot remove '../android/libs/PandroidModule.jar': No such file or directory
+====== rm_jar file
+cp: cannot stat 'dist/PandroidModule.jar': No such file or directory
+====== cp_jar file
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc done
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/jni begun
+rm: cannot remove 'lib.jar': No such file or directory
+        zip warning: name not matched: lib
+
+zip error: Nothing to do! (try: zip -rv lib.jar . -i lib)
+Buildfile: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml
+
+clean:
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+   [delete] Deleting directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+init:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+compile:
+    [javac] Compiling 1 source file to /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/bin
+
+dist:
+    [mkdir] Created dir: /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/dist
+
+BUILD FAILED
+/data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/build.xml:32: The archive lib.jar doesn't exist
+
+Total time: 1 second
+rm: cannot remove 'lib.jar': No such file or directory
+============================ pascal
+Error: Unable to access jarfile /usr/local/pandroid/FreePascal/fpc/bin/javapp.jar
+rm: cannot remove '../android/libs/PandroidModule.jar': No such file or directory
+====== rm_jar file
+cp: cannot stat 'dist/PandroidModule.jar': No such file or directory
+====== cp_jar file
+-------------------------- compile
+compile.sh in directory /data/data/com.termux/files/home/buildAPKs/sources/github.com/zeljkoc/Pandroid/template/ProjectIndyModule/pascalsrc/jni done
+Found 0 APK files in ~/buildAPKs/sources/github.com/zeljkoc/Pandroid/.
+
+
+Please share information about new projects found at https://github.com/BuildAPKs/db.BuildAPKs/issues and https://github.com/BuildAPKs/db.BuildAPKs/pulls in order to help this project out.
+
+~/.../zeljkoc/Pandroid $
