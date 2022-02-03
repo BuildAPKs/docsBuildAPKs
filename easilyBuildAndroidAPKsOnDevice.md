@@ -2,6 +2,8 @@
 
 Have you ever wanted to build your own Android application on device? Your own app created on a smartphone or tablet? Now you can easily compile many selected applications that have already been successfully built and installed on smartphones (aarch64 and arm). Would you dare to try to spend some time learning something new to do so? There are many Android apps which build quit well on device with the tools we have at our disposal in [Termux.](https://termux.com/) today at [this page.](https://github.com/sdrausty/buildAPKs/)
 
+![Screenshot_20210621-051340-101](https://user-images.githubusercontent.com/27742457/152366211-47e7076b-5218-4763-82f1-120bae70bc3c.png)
+
 Some of these showcased apps are quite complex. Others are very entertaining. While others still are very simple, mere fragments of apps that are complete in themselves. Instructions are located at [this page.](https://sdrausty.github.io/buildAPKs/) More scripts should be written to build Android apps on device. Alternative scripts automating the entire process like `./gradlew`, but much simpler can be found at [this page.](https://github.com/sdrausty/buildAPKs/tree/master/scripts/build/) We should really leave the age of whirling fans and disk drives behind:  
 
 Install [Termux](https://termux.com/) on Android. Copy and paste each of the following commands separately into [Termux.](https://termux.com/) Run each of the following command lines separately. Running them all at once may generate errors. 
