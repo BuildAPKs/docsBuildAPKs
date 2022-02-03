@@ -2,6 +2,8 @@
 
 Have you ever wanted to build your own application for Android on Android? Your own app, APK! Something that you can distribute over the Internet, and can be used on Android smartphones worldwide. Would you dare to try to spend some time learning something new to do so?
 
+![Screenshot_20210621-051340-101](https://user-images.githubusercontent.com/27742457/152366211-47e7076b-5218-4763-82f1-120bae70bc3c.png)
+
 [This project](https://github.com/buildAPKs) is designed just for this purpose. Source code is the way software is written in an understandable human language for applications to compile into machine code, and then to be run as programs on a device. The applications in this collection are showcased because they have been tested and passed. They were successfully built and installed on device, yes all of it on a smartphone.
 
 In order to build these apps, the following programs need to be used. After finishing the complex process of compiling, the finished product, the APK file, should be installable on any compliant Android device. Use `apt` or `packages` to install all of the following required Termux packages:
